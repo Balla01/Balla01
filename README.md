@@ -1,7 +1,6 @@
 # Hi 👋, I'm Rakesh Balla
 
-A passionate **Data Scientist** from **India**, specializing in AI, MLOps, and Retrieval-Augmented Generation (RAG) systems.
-
+A passionate **Software Design Engineer** from **Hyderabad**, India, working in the **Data Science** domain and specializing in AI.
 - 🔭 **Currently working on**: Building scalable AI pipelines with LangChain, LlamaIndex, and graph-enhanced RAG for finance and banking domains.
 - 🌱 **Learning**: Advanced LLM fine-tuning (LoRA, QLoRA) and prompt engineering techniques (Chain-of-Thought, ReAct).
 - 💼 **Experience**: AI Intern at Isnartech Pvt Ltd (Jan 2023 - May 2023), developing PoCs for TTS and ASR models.
